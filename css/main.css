@@ -1,0 +1,38 @@
+body{
+	font-family: sans-serif;
+}
+
+.content{
+	text-align: center;
+}
+
+#query{
+	height:30px;
+	border-radius: 5px;
+	font-size: 32px;
+	padding: 10px;
+}
+
+#submit-button{
+  height: 50px;
+  margin: 10px;
+  color: black;
+  font-size: 32px;
+  font-family: sans-serif;
+  width: 100px;
+  background-color: #FFA500;
+  border-radius: 5px;
+}
+
+#search-results{
+	padding:5px;
+	color: DarkGrey;
+ 	width: 535px;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+
+h1{	
+	padding: 5px;
+	line-height: 16px;
+}
